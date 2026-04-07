@@ -35,6 +35,14 @@ app.use(
   })
 );
 
+app.get('/', (_req, res) => {
+  res.json({
+    ok: true,
+    service: 'GreenTrace API',
+    message: 'API is running. Use /api/v1/* endpoints.',
+  });
+});
+
 app.get('/api/v1/health', (_req, res) => {
   res.json({
     ok: true,
