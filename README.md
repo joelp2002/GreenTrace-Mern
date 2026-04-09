@@ -230,19 +230,14 @@ Uploads (NGP, MES):
 
 Add your live links once deployed:
 
-- Frontend (Vercel/Netlify): `https://...`
-- Backend (Render/Railway): `https://...`
-
-Ensure:
-
-- Backend CORS `FRONTEND_URL` includes live frontend URL
-- Frontend `VITE_API_URL` points to live backend URL
+- Frontend (Vercel): `https://green-trace-mern.vercel.app`
+- Backend (Render): `https://greentrace-backend-eue1.onrender.com`
 
 ## Final Submission Checklist
 
-- [ ] Live frontend URL
-- [ ] Live backend URL
-- [ ] Updated README with links
+- [x] Live frontend URL
+- [x] Live backend URL
+- [x] Updated README with links
 - [ ] Postman collection/export
 - [ ] Proposal PDF
 - [ ] Final presentation/demo script
