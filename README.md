@@ -232,12 +232,13 @@ Add your live links once deployed:
 
 - Frontend (Vercel): `https://green-trace-mern.vercel.app`
 - Backend (Render): `https://greentrace-backend-eue1.onrender.com`
+- Postman Documentation: `https://documenter.getpostman.com/view/53538797/2sBXirjo9h`
 
 ## Final Submission Checklist
 
 - [x] Live frontend URL
 - [x] Live backend URL
 - [x] Updated README with links
-- [ ] Postman collection/export
+- [x] Postman collection/export (see documentation link above)
 - [ ] Proposal PDF
 - [ ] Final presentation/demo script
