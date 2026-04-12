@@ -1,6 +1,13 @@
-# GreenTrace (MERN) - DENR Marinduque
+# GreenTrace (custodial chain & geospatial mapping for DENR seedling reconciliation) - DENR/PENRO Marinduque
 
 GreenTrace is a full-stack MERN application for DENR seedling reconciliation with strict role-based access control (RBAC), JWT auth, permit tracking, seedling batch recording, and geospatial planting site management.
+
+Group members:
+Joel F. Pariño: - Leader
+Justin Z. Chavez –  Programmer
+Wendell P. Rosales – Analyst
+Reymart C. Recaña – Researcher
+
 
 ## Tech Stack
 
@@ -235,10 +242,9 @@ Add your live links once deployed:
 - Postman Documentation: `https://documenter.getpostman.com/view/53538797/2sBXirjo9h`
 
 ## Final Submission Checklist
-
+- [x] Project Title and Team Members
 - [x] Live frontend URL
 - [x] Live backend URL
-- [x] Updated README with links
-- [x] Postman collection/export (see documentation link above)
+- [x] Postman collection/export 
 - [ ] Proposal PDF
-- [ ] Final presentation/demo script
+
