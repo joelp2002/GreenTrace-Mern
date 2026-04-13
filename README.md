@@ -246,5 +246,5 @@ Add your live links once deployed:
 - [x] Live frontend URL
 - [x] Live backend URL
 - [x] Postman collection/export 
-- [ ] Proposal PDF
+- [x] Proposal PDF
 
